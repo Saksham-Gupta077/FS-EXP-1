@@ -1,12 +1,26 @@
-# React + Vite
+# Project Overview
+This is a Full Stack React project showcasing a personal profile dashboard.
+Users can navigate between Home, Profile, and Dashboard pages to explore skills and personal information.
+## Features
+Home Page: Welcome message and profile image with a button to navigate to Profile.                                                                            
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Profile Page: Animated welcome message with a link to the Dashboard.                                                                                          
 
-Currently, two official plugins are available:
+Dashboard Page: Lists core skills (HTML, CSS, JavaScript, React) with easy navigation back to Profile.                                                        
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Routing: Implemented using react-router-dom for seamless navigation.                                                                                            
+## Technologies Used:
 
-## Expanding the ESLint configuration
+React.js
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+React Router
+
+HTML / CSS / JavaScript
+
+## Project Screenshots:
+
+<img width="819" height="774" alt="image" src="https://github.com/user-attachments/assets/7ceb9c54-276d-40e4-bbc6-8564df5e83b4" />
+
+<img width="820" height="747" alt="Screenshot 2026-01-28 123133" src="https://github.com/user-attachments/assets/930b5dd6-e19b-450a-abf8-1d99d1164005" />
+
+<img width="820" height="747" alt="image" src="https://github.com/user-attachments/assets/d57522e7-c5ae-482f-89b7-d453a0644788" />
